@@ -14,5 +14,8 @@ public class Runner {
         //version 7
         System.out.println("Hi");
 
+        //version 8
+        System.out.println("Branch için deneme");
+
     }
 }
