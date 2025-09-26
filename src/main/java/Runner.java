@@ -10,5 +10,9 @@ public class Runner {
 
         //Version 3
         System.out.println("Geçmişe Yolculuk.");
+
+        //version 7
+        System.out.println("Hi");
+
     }
 }
