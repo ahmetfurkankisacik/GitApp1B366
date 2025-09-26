@@ -17,7 +17,8 @@ public class Runner {
         //version 5
         System.out.println("");
 
-
+        //version 6
+        System.out.println();
 
     }
 }
